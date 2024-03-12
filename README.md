@@ -9,8 +9,8 @@ Note: You choose `n` and `x`.
 
 **Instruction:**
 - [ ] 1. Download the folder
-- [ ] 2. Run `main.py` in any Python Editor (ideally Visual Studio Code)
-- [ ] 3. As the prompt is printed, choose a difficulty level by typing down a number from 1 to 5. To see the details of each level, take a look in `very_easy.txt` / `easy.txt` / `medium.txt` / `hard.txt` / `very_hard.txt`
+- [ ] 2. Run `main.py` in any Python Editor or IDE (ideally PyCharm or Visual Studio Code)
+- [ ] 3. As the first prompt is printed, choose the total number of sticks you and the computer is going to play with (`0 < n`).
 > Welcome to the Puzzle Game. Choose number level 1.very easy, or 2. easy, or 3. medium, or 4.hard, or 5.very hard:
 > This is level ___ puzzle: _[insert the puzzle]_
 - [ ] 4. As the next prompt is printed, choose a search method by typing down either 1 or 2
