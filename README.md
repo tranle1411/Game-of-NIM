@@ -4,7 +4,8 @@
 The program will play the Game of NIM with you.
 
 **Game of NIM:**
-The game starts with n number(s) of stick(s). Each  
+The game starts with a pile of `n` number of sticks. Each turn, either you or the computer picks a maximum `x` of sticks away from the pile. Whoever picks the last stick wins.
+Note: You choose `n` and `x`.
 
 **Instruction:**
 - [ ] 1. Download the folder
