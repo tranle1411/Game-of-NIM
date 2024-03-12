@@ -21,8 +21,5 @@ Note: You choose `n` and `x`.
 - [ ] 7. After the last stick is picked, it will state the winner.
 
 **File explanation:**
-- `main.py` contains all prompts and inputs, as well as calling the Alpha Beta method. Module used: `AlphaBeta`
-- `BFS.py` contains the BFS (Breath First Search) search method. Modules used: copy, numpy, deque, and `helper`
-- `BestFirst.py` contains the Best First Search search method. Modules used: copy, numpy, heapq, and `helper`
-- `helper.py` contains `getGoal()` (get the Goal state), `swapPositions()` (swap the position of the '0' with another one), `print_array()` (print out the state), `find_empty()` (locate the '0'), and `find_h()` (calculate heuristic). Module used: copy
-- `very_easy.txt` / `easy.txt` / `medium.txt` / `hard.txt` / `very_hard.txt`: contain each level of the puzzle problem
+- `main.py` contains all prompts and inputs, as well as calling the Alpha-Beta method. Module used: `AlphaBeta`.
+- `AlphaBeta.py` contains the Alpha-Beta algorithm and the Min-Max to find the game solution.
